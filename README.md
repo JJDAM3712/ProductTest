@@ -1,5 +1,15 @@
 # ProductTest
 
+#        commands to install       #
+# -------------------------------- # 
+# install dependencies
+npm i OR npm install
+#  build
+npm run build
+# run app
+npm run start
+
+# -------------------------------- #
 #            EndPoints             #
 # -------------------------------- # 
 #            localhost             #
