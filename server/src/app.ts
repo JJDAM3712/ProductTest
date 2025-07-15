@@ -15,7 +15,7 @@ app.use(routes);
 
 
 // port for app
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 8090;
 
 
 
